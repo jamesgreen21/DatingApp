@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UserSecretsId>697a229e-55d2-4ee9-a466-dd15d3f2959f</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>&#xD;
   </ItemGroup>
